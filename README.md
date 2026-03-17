@@ -7,7 +7,7 @@
 
 ## 🌱 About Me
 
-- 🧩 Currently learning **Certified Ethical Hacking (CEH)** and advanced security analysis.  
+- 🧩 Completed **Certified Ethical Hacking (CEH)** and advanced security analysis.  
 - 💻 Interned under the **Tamil Nadu Police Department**, gaining real-world exposure to cybersecurity operations.  
 - 🚀 Selected for the **EduNet AICTE AI Internship** under the *Electric Vehicle* theme (AI/ML domain).  
 - ☁️ Certified in **Microsoft Azure Fundamentals (AZ-900)**, and currently expanding knowledge in **cloud security and automation**.  
